@@ -1,0 +1,67 @@
+{
+
+  "people":[
+
+    {
+
+      "name":"Selina",
+
+      "age":25,
+
+      "city":"Istanbul",
+
+      "profession":"QA Engineer"
+
+    },
+
+    {
+
+      "name":"Aygul",
+
+      "age":26,
+
+      "city":"Izmir",
+
+      "profession":"Web Designer"
+
+    },
+
+    {
+
+      "name":"Seyma",
+
+      "age":27,
+
+      "city":"Adana",
+
+      "profession":"UX-UI designer"
+
+    },
+
+    {
+
+      "name":"Ayse",
+
+      "age":28,
+
+      "city":"Alanya",
+
+      "profession":"Business analyst"
+
+    },
+
+    {
+
+      "name":"Nazile",
+
+      "age":29,
+
+      "city":"Van",
+
+      "profession":"Data Analyst"
+
+    }
+
+  ]
+
+}
